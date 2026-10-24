@@ -1,0 +1,17 @@
+{
+  "name": "content-mill-linkedin",
+  "owner": {
+    "name": "Content Mill",
+    "email": "support@contentmill.dev"
+  },
+  "metadata": {
+    "description": "Schedule and publish LinkedIn posts from chat: write posts up to 3,000 characters, add images or video, preview each one, and track what's scheduled. LinkedIn scheduler by Content Mill."
+  },
+  "plugins": [
+    {
+      "name": "content-mill-linkedin",
+      "source": "./",
+      "description": "Schedule and publish LinkedIn posts from chat: write posts up to 3,000 characters, add images or video, preview each one, and track what's scheduled. LinkedIn scheduler by Content Mill."
+    }
+  ]
+}
