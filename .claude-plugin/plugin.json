@@ -1,7 +1,8 @@
 {
   "name": "content-mill-linkedin",
+  "displayName": "LinkedIn by Content Mill",
   "description": "Schedule and publish LinkedIn posts from chat: write posts up to 3,000 characters, add images or video, preview each one, and track what's scheduled. LinkedIn scheduler by Content Mill.",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "author": {
     "name": "Content Mill",
     "email": "support@contentmill.dev",
