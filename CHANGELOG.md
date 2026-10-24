@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.1
+
+- Declare `privacyPolicyUrl` (https://contentmill.dev/privacy) in `plugin.json`.
+
 ## 0.1.0
 
 - First release: Content Mill for LinkedIn as a Claude plugin, pointing at `https://li-mcp.contentmill.dev/mcp`.
